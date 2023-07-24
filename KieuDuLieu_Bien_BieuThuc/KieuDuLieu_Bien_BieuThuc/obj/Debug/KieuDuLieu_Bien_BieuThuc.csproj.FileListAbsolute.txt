@@ -1,0 +1,6 @@
+D:\C# Begin\KieuDuLieu_Bien_BieuThuc\KieuDuLieu_Bien_BieuThuc\bin\Debug\KieuDuLieu_Bien_BieuThuc.exe.config
+D:\C# Begin\KieuDuLieu_Bien_BieuThuc\KieuDuLieu_Bien_BieuThuc\bin\Debug\KieuDuLieu_Bien_BieuThuc.exe
+D:\C# Begin\KieuDuLieu_Bien_BieuThuc\KieuDuLieu_Bien_BieuThuc\bin\Debug\KieuDuLieu_Bien_BieuThuc.pdb
+D:\C# Begin\KieuDuLieu_Bien_BieuThuc\KieuDuLieu_Bien_BieuThuc\obj\Debug\KieuDuLieu_Bien_BieuThuc.csprojResolveAssemblyReference.cache
+D:\C# Begin\KieuDuLieu_Bien_BieuThuc\KieuDuLieu_Bien_BieuThuc\obj\Debug\KieuDuLieu_Bien_BieuThuc.exe
+D:\C# Begin\KieuDuLieu_Bien_BieuThuc\KieuDuLieu_Bien_BieuThuc\obj\Debug\KieuDuLieu_Bien_BieuThuc.pdb

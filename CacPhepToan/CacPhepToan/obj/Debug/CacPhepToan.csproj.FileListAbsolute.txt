@@ -1,0 +1,6 @@
+D:\C# Begin\CacPhepToan\CacPhepToan\bin\Debug\CacPhepToan.exe.config
+D:\C# Begin\CacPhepToan\CacPhepToan\bin\Debug\CacPhepToan.exe
+D:\C# Begin\CacPhepToan\CacPhepToan\bin\Debug\CacPhepToan.pdb
+D:\C# Begin\CacPhepToan\CacPhepToan\obj\Debug\CacPhepToan.csprojResolveAssemblyReference.cache
+D:\C# Begin\CacPhepToan\CacPhepToan\obj\Debug\CacPhepToan.exe
+D:\C# Begin\CacPhepToan\CacPhepToan\obj\Debug\CacPhepToan.pdb
